@@ -15,3 +15,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindu2kk&" alt="mindu2kk" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mindu2kk&show_icons=true&locale=en&layout=compact" alt="mindu2kk" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mindu2kk" alt="mindu2kk" /></a></p>
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=minhdu2kk)
