@@ -1,4 +1,5 @@
-<p align="center"><img width="80%" alt="Hi 👋,my name is Minh Duc, I'm Sophomore in PTIT" src="./assets/gh-readme-header.png" /></a></p>
+<h1>Hi 👋,my name is Minh Duc, I'm Sophomore in PTIT</h1>
+
 <p>A passionate developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
