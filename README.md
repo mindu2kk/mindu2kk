@@ -1,6 +1,7 @@
 <h1>Hi 👋,my name is Minh Duc, I'm Sophomore in PTIT</h1>
 
 <p>A passionate developer </p>
+
 ![Profile views](https://komarev.com/ghpvc/?username=mindu2kk&label=Profile%20views&color=0e75b6&style=flat)
 
 <h2>🚀 Languages and Tools I Use</h2>
