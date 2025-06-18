@@ -1,7 +1,8 @@
 <h1>Hi 👋,my name is Minh Duc, I'm Sophomore in PTIT</h1>
 
 <p>A passionate developer </p>
-![](https://komarev.com/ghpvc/?username=mindu2kk &label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=mindu2kk&label=Profile%20views&color=0e75b6&style=flat)
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
