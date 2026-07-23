@@ -5,11 +5,14 @@ on:
     - cron: "0 */12 * * *" # Bot tự động chạy cập nhật 12 tiếng/lần
   workflow_dispatch: # Nút cho phép bạn bấm chạy thủ công
 
+permissions:
+  contents: write # 🔓 ĐÃ THÊM: Cấp quyền ghi cho bot để vượt qua lỗi Exit code 128
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # ⬆️ ĐÃ NÂNG CẤP: Lên v4 để dập tắt cảnh báo Node.js 20
 
       - name: Khởi tạo thư mục chứa ảnh tĩnh
         run: mkdir -p github-metrics
