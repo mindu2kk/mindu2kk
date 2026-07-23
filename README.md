@@ -1,23 +1,51 @@
-<h1>Hi 👋,my name is Minh Duc, I'm Sophomore in PTIT</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Minh+Duc;A+Passionate+Developer;Sophomore+at+PTIT" alt="Typing SVG" />
+</div>
 
-<p>A passionate developer </p>
+<div align="center">
+  <a href="https://github.com/mindu2kk">
+    <img src="https://komarev.com/ghpvc/?username=mindu2kk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=mindu2kk&label=Profile%20views&color=0e75b6&style=flat)
+---
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mindu2kk&show_icons=true&locale=en" alt="mindu2kk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mindu2kk&" alt="mindu2kk" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mindu2kk&show_icons=true&locale=en&layout=compact" alt="mindu2kk" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mindu2kk" alt="mindu2kk" /></a></p>
+### 🚀 Tech Stack & Tools
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mindu2kk&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,react,nodejs,tensorflow,figma,mysql,solidity&perline=6" alt="Tech Stack"/>
+  </a>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="./github-metrics/trophies.svg" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="./github-metrics/stats.svg" width="48%" alt="GitHub Stats" />
+  <!-- Streak không bị lỗi mạng nên giữ nguyên URL động -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindu2kk&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./github-metrics/top-langs.svg" width="48%" alt="Top Langs" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./github-metrics/activity-graph.svg" width="100%" alt="Activity Graph" />
+</p>
